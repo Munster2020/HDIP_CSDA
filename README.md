@@ -26,6 +26,13 @@ In this weeks task I had to write a program that asks the user to input any posi
 * Please enter a positive integer: 10
 * 10 5 16 8 4 2 1
 
+##### Sources
+* https://snakify.org/en/lessons/if_then_else_conditions/
+* https://stackoverflow.com/questions/26198131/check-if-input-is-positive-integer
+* https://github.com/HenkT28/pands-problem-set/blob/master/collatz.py
+* http://www.trytoprogram.com/python-programming/python-while-loop/
+* https://stackoverflow.com/questions/20372485/what-does-end-exactly-do
+
 ### Topic 5: Data
 I week 5 we looked at data and had to write a program that outputs whether or not today is a weekday. An example of running this program on a Thursday is given below. 
 
