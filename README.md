@@ -46,3 +46,11 @@ This week I had to write program that takes a positive floating-point number as 
 * $ python squareroot.py
 * Please enter a positive number: 14.5
 * The square root of 14.5 is approx. 3.8.
+
+### Topic 7: Files
+Fo this weeks task I had to write program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line. 
+
+#### Program & Sample Data
+* $ python es.py moby-dick.txt
+* 116960
+
