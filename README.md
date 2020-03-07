@@ -38,3 +38,11 @@ An example of running it on a Saturday is as follows.
 #### Program & Sample Data
 * $ python weekday.py
 * It is the weekend, yay!
+
+### Topic 6: Functions
+This week I had to write program that takes a positive floating-point number as input and outputs an approximation of its square root. You should create a function called sqrt that does this. 
+
+#### Program & Sample Data
+* $ python squareroot.py
+* Please enter a positive number: 14.5
+* The square root of 14.5 is approx. 3.8.
