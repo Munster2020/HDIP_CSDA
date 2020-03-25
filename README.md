@@ -68,7 +68,7 @@ This week I had to write program that takes a positive floating-point number as 
 * https://www.youtube.com/watch?v=tUFzOLDuvaE
 
 ### Topic 7: Files
-Fo this weeks task I had to write program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line. 
+For this weeks task I had to write program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line. 
 
 #### Program & Sample Data
 * $ python es.py moby-dick.txt
@@ -77,4 +77,11 @@ Fo this weeks task I had to write program that reads in a text file and outputs 
 #### Sources
 * https://stackoverflow.com/questions/22694244/counting-specific-letters-or-symbols-in-a-text-file-in-python
 * https://www.gutenberg.org/files/2701/old/moby10b.txt
+
+### Topic 8: Looking ahead - matplotlib
+In week 8 we had to write a program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes. 
+
+#### Sources
+* https://realpython.com/how-to-use-numpy-arange/
+* https://gist.github.com/aunyks/44648b839e7c59b47afecca62c9a88de
 
